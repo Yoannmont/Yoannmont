@@ -7,6 +7,8 @@ I'm a passionate **Junior Data Scientist / Engineer** who loves software enginee
 ## 🛠️ Currently Working On
 
 - **[Destiny 2 Guessr](https://github.com/Yoannmont/Destiny-2-guessr)**: A web application dedicated to the universe and equipment of the Destiny 2 game, developed by Bungie. This project combines my passion for gaming with my skills in web development and data analysis.
+![d2g_preview](Destiny_2_Guessr_preview.png)
+![AngularVision](exo_challenge.png)  
 
 - **Secret Projects**: ?????
 
@@ -16,4 +18,22 @@ I'm constantly learning and seeking new challenges. Here are a few things I'm cu
 - Cloud Computing and Big Data Technologies
 - Full-Stack Web Development
 
-Feel free to reach out to me via **LinkedIn**: [Yoann MONTEIRO](https://www.linkedin.com/in/yoann-monteiro-471321210/)
+
+
+## 🌟 Completed Projects
+
+### 1. [Randomized ReLU](https://github.com/Yoannmont/Randomized-ReLU)
+![Randomized ReLU](CustomReLU_comparison.png)  
+A study of the impact of a Randomized ReLU function on the performance of a neural network model.
+### 2. [AngularVision](https://github.com/Yoannmont/AngularVizion)
+![AngularVision](angularvizion.png)  
+A web application for object detection on images with Angular, PyTorch and Flask.
+
+
+## 📫 How to reach me
+
+- **Email**: y.mont@orange.fr
+- **LinkedIn**: [Yoann MONTEIRO](https://www.linkedin.com/in/yoann-monteiro-471321210/)
+
+
+Feel free to explore my repositories and connect with me on my social platforms!
