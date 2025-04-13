@@ -2,7 +2,7 @@
 
 ##  About Me
 
-I'm a passionate **Junior Data Scientist / Engineer** who loves software engineering. My interests range from web development to data science.
+I'm a passionate **Junior Data Scientist / Engineer** who loves software engineering. My interests range from backend web development to data science.
 
 ## 🛠️ Currently Working On
 
@@ -14,9 +14,9 @@ I'm a passionate **Junior Data Scientist / Engineer** who loves software enginee
 
 I'm constantly learning and seeking new challenges. Here are a few things I'm currently focusing on:
 
+- Full-Stack Web Development
 - Advanced Machine Learning Techniques
 - Cloud Computing and Big Data Technologies
-- Full-Stack Web Development
 
 
 
