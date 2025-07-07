@@ -2,11 +2,12 @@
 
 ##  About Me
 
-I'm a passionate **Junior Data Scientist / Engineer** who loves software engineering. My interests range from backend web development to data science.
+I'm a passionate **Junior Back-End Dev ** who loves software engineering. My interests range from backend web development to data science.
 
-## 🛠️ Currently Working On
+## Currently Working On
 
-- **[Destiny 2 Guessr](https://github.com/Yoannmont/Destiny-2-guessr)**: A web application dedicated to the universe and equipment of the Destiny 2 game, developed by Bungie. This project combines my passion for gaming with my skills in web development and data analysis.<br/>
+- **[Destiny 2 Guessr](https://github.com/Yoannmont/Destiny-2-guessr)**: A web application dedicated to the universe and equipment of the Destiny 2 game, developed by Bungie. This project combines my passion for gaming with my skills in web development and data analysis.<br/><br/>
+You can check it on [d2guessr.netlify.app](https://d2guessr.netlify.app).<br/><br/>
 ![d2g_preview](Destiny_2_Guessr_preview.png)
 ![AngularVision](exo_challenge.png)  
 
