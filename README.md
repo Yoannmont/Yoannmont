@@ -2,7 +2,7 @@
 
 ##  About Me
 
-I'm a passionate **Junior Back-End Dev ** who loves software engineering. My interests range from backend web development to data science.
+I'm a passionate **Junior Back-End Dev** who loves software engineering. My interests range from backend web development to data science.
 
 ## Currently Working On
 
