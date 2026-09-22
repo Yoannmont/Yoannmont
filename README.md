@@ -19,6 +19,10 @@ I'm constantly learning and seeking new challenges. Here are a few things I'm cu
 
 ## 🌟 Completed Projects
 
+### **[GServ](https://github.com/Yoannmont/GServ)**: A web application for orchestrating Docker images of server instances for multiplayer games such as Minecraft, Palworld, etc. This project allows you to easily start, stop, or customize Docker instances for games (useful for people who are not comfortable with CLI commands). 
+
+![gserv_preview](gserv.png)
+
 ### [Destiny 2 Guessr](https://github.com/Yoannmont/Destiny-2-guessr): A web application dedicated to the universe and equipment of the Destiny 2 game, developed by Bungie. This project combines my passion for gaming with my skills in web development and data analysis.<br/><br/>
 You can check it on [d2guessr.netlify.app](https://d2guessr.netlify.app).<br/><br/>
 ![d2g_preview](Destiny_2_Guessr_preview.png)
