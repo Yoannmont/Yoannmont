@@ -6,9 +6,9 @@ I'm a passionate **Junior Back-End Dev** who loves software engineering. My inte
 
 ## Currently Working On
 
-### **[GServ](https://github.com/Yoannmont/GServ)**: A web application for orchestrating Docker images of server instances for multiplayer games such as Minecraft, Palworld, etc. This project allows you to easily start, stop, or customize Docker instances for games (useful for people who are not comfortable with CLI commands). 
+### **[Budgy](https://github.com/Yoannmont/budgy)**: A web application for to better manage their budget and payment deadlines.
 
-![gserv_preview](gserv.png)
+![budgy_preview](budgy_preview.png)
 
 I'm constantly learning and seeking new challenges. Here are a few things I'm currently focusing on:
 
