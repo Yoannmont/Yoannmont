@@ -6,7 +6,7 @@ I'm a passionate **Back-End Developer** who loves software engineering. My inter
 
 ## Currently Working On
 
-### **[Budgy](https://github.com/Yoannmont/budgy)**: A web application for to better manage their budget and payment deadlines.
+### **[Budgy](https://github.com/Yoannmont/budgy)**: A web application that helps people manage their budget and payment deadlines better.
 
 ![budgy_preview](budgy_preview.png)
 
